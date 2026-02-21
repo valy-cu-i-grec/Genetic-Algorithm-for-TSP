@@ -26,6 +26,8 @@ Input_pla33810.txt    66048945    72067468.25  9.11       415701.63 71535361    
 Input_pla85900.txt    142382641   156537595    9.94       988135.32 155315515   157606426    22468265.75
 Input_u1817.txt       57201       59966.27     4.83       748.24    59303.47    61642.17     195423
 Input_u2319.txt       234256      237101.4     1.21       365.04    236788.03   237864.99    230830.62
+<img width="665" height="287" alt="image" src="https://github.com/user-attachments/assets/db3f6ed0-51bf-43b1-a8b5-bf5e43314e19" />
+
 
 ===== Project Structure
 H3_Main.cpp: Entry point, handles multithreaded execution and batch testing.
