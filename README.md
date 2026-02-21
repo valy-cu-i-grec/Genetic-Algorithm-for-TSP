@@ -15,17 +15,6 @@ Distance Metrics: Supports EUC_2D (Euclidean), CEIL_2D, and GEO (Geographic/Have
 ===== Performance Benchmarks
 Results obtained after multiple runs on standard TSPLIB instances. The Gap (%) represents the deviation from the known optimal solution.
 
-Instance              Optimum     Mean         Gap(%)     Stdev     Best        Worst        Avg_Time(ms)
-Input_SW24978.txt     855597      874448.69    2.2        753.56    873741.49   875509.63    14634478.25
-Input_Uruguay.txt     79114       81119.42     2.53       319.06    80684.81    81708.66     32473.43
-Input_brd14051.txt    469385      482669.64    2.83       317.59    482303.82   482986.65    6020667.25
-Input_d18512.txt      645238      663797.67    2.88       454.76    663381.54   664372.2     11030923
-Input_d493.txt        35002       35683.48     1.95       171.15    35592.97    35986.17     20204.4
-Input_dsj1000.txt     18660188    19379638     3.86       117320.5  19280984    19521674     610038.25
-Input_pla33810.txt    66048945    72067468.25  9.11       415701.63 71535361    72511764     6911318.25
-Input_pla85900.txt    142382641   156537595    9.94       988135.32 155315515   157606426    22468265.75
-Input_u1817.txt       57201       59966.27     4.83       748.24    59303.47    61642.17     195423
-Input_u2319.txt       234256      237101.4     1.21       365.04    236788.03   237864.99    230830.62
 <img width="665" height="287" alt="image" src="https://github.com/user-attachments/assets/db3f6ed0-51bf-43b1-a8b5-bf5e43314e19" />
 
 
